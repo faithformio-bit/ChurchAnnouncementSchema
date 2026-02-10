@@ -1,0 +1,13 @@
+Create polished upcoming announcements and extract structured event values.
+
+Input summary lines:
+{{CODE_STEP__announcements_text}}
+
+Input structured events JSON:
+{{CODE_STEP__events_json}}
+
+Input totals:
+total_events={{CODE_STEP__total_events}}
+total_series={{CODE_STEP__total_series}}
+total_attendees={{CODE_STEP__total_attendees}}
+
